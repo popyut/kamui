@@ -10,7 +10,7 @@ jobs:
           fetch-depth: 0
 
       - id: foo
-        uses: kamui/kamui@v1
+        uses: popyut/kamui@v1
 
       - name: Force push
         run: |-
